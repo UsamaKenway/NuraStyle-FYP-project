@@ -15,7 +15,4 @@ Style transferred model quantized for an android app for a final year project ( 
 ![Desktop_Result](https://user-images.githubusercontent.com/56207634/235352056-814bc251-2432-4dd2-8b25-b3afc826dfa0.png)
 
 
-<img src="https://user-images.githubusercontent.com/56207634/235352064-737d8f6a-bc19-4938-9f03-a9f7defe03ba.png" width="20%" >
-<img src="https://user-images.githubusercontent.com/56207634/235352066-fc6eced0-873e-4cba-afd0-e11cf7df8d97.png" width="20%" >
-<img src="https://user-images.githubusercontent.com/56207634/235352067-6407c103-f2b0-4964-a16f-9ba669a0cee3.png" width="20%" >
-<img src="https://user-images.githubusercontent.com/56207634/235352068-bcdc0480-5caa-4e0d-8560-1c701027b269.png" width="20%" >
+<img src="https://user-images.githubusercontent.com/56207634/235352064-737d8f6a-bc19-4938-9f03-a9f7defe03ba.png" width="40%" > <img src="https://user-images.githubusercontent.com/56207634/235352066-fc6eced0-873e-4cba-afd0-e11cf7df8d97.png" width="20%" > <img src="https://user-images.githubusercontent.com/56207634/235352067-6407c103-f2b0-4964-a16f-9ba669a0cee3.png" width="20%" > <img src="https://user-images.githubusercontent.com/56207634/235352068-bcdc0480-5caa-4e0d-8560-1c701027b269.png" width="20%" >
